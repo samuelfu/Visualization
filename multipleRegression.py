@@ -32,4 +32,4 @@ fig.suptitle('Beauty of Teacher and Course Ratings', fontsize=20)
 plt.xlabel('Beauty', fontsize=18)
 plt.ylabel('Course Evaluation', fontsize=16)
 
-plt.show()
+plt.savefig('multipleRegression.png')
