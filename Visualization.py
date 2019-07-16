@@ -9,4 +9,3 @@ df = pd.DataFrame({'x': x, 'y': y})
 
 # plot
 plt.plot('x', 'y', data=df, linestyle='none', marker='o')
-plt.savefig('Visualization.png')
